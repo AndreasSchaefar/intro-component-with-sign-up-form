@@ -1,0 +1,6 @@
+@use './abstracts/variables';
+@use './base/reset';
+
+body {
+  font-size: variables.$fs-1;
+}
